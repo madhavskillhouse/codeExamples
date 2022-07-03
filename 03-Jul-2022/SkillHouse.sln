@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{9B4A0EE0-9CEA-41D1-97B7-D0B11BDC8E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicPolymorphism", "DynamicPolymorphism\DynamicPolymorphism.csproj", "{5FD5D68A-16F5-4F45-B992-C2D6E9B41D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B4A0EE0-9CEA-41D1-97B7-D0B11BDC8E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4A0EE0-9CEA-41D1-97B7-D0B11BDC8E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4A0EE0-9CEA-41D1-97B7-D0B11BDC8E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4A0EE0-9CEA-41D1-97B7-D0B11BDC8E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD5D68A-16F5-4F45-B992-C2D6E9B41D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD5D68A-16F5-4F45-B992-C2D6E9B41D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD5D68A-16F5-4F45-B992-C2D6E9B41D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD5D68A-16F5-4F45-B992-C2D6E9B41D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {546E91BB-EB11-4ECD-93DF-146FF878A92F}
+	EndGlobalSection
+EndGlobal

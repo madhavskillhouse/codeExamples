@@ -1,0 +1,16 @@
+D:\SkillHouse\SkillHouse\Exceptions\bin\Debug\net5.0\Exceptions.exe
+D:\SkillHouse\SkillHouse\Exceptions\bin\Debug\net5.0\Exceptions.deps.json
+D:\SkillHouse\SkillHouse\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.json
+D:\SkillHouse\SkillHouse\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.dev.json
+D:\SkillHouse\SkillHouse\Exceptions\bin\Debug\net5.0\Exceptions.dll
+D:\SkillHouse\SkillHouse\Exceptions\bin\Debug\net5.0\ref\Exceptions.dll
+D:\SkillHouse\SkillHouse\Exceptions\bin\Debug\net5.0\Exceptions.pdb
+D:\SkillHouse\SkillHouse\Exceptions\obj\Debug\net5.0\Exceptions.csproj.AssemblyReference.cache
+D:\SkillHouse\SkillHouse\Exceptions\obj\Debug\net5.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkillHouse\SkillHouse\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfoInputs.cache
+D:\SkillHouse\SkillHouse\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfo.cs
+D:\SkillHouse\SkillHouse\Exceptions\obj\Debug\net5.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\SkillHouse\SkillHouse\Exceptions\obj\Debug\net5.0\Exceptions.dll
+D:\SkillHouse\SkillHouse\Exceptions\obj\Debug\net5.0\ref\Exceptions.dll
+D:\SkillHouse\SkillHouse\Exceptions\obj\Debug\net5.0\Exceptions.pdb
+D:\SkillHouse\SkillHouse\Exceptions\obj\Debug\net5.0\Exceptions.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\bin\Debug\net5.0\DynamicPolymorphism.exe
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\bin\Debug\net5.0\DynamicPolymorphism.deps.json
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\bin\Debug\net5.0\DynamicPolymorphism.runtimeconfig.json
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\bin\Debug\net5.0\DynamicPolymorphism.runtimeconfig.dev.json
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\bin\Debug\net5.0\DynamicPolymorphism.dll
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\bin\Debug\net5.0\ref\DynamicPolymorphism.dll
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\bin\Debug\net5.0\DynamicPolymorphism.pdb
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\obj\Debug\net5.0\DynamicPolymorphism.csproj.AssemblyReference.cache
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\obj\Debug\net5.0\DynamicPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\obj\Debug\net5.0\DynamicPolymorphism.AssemblyInfoInputs.cache
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\obj\Debug\net5.0\DynamicPolymorphism.AssemblyInfo.cs
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\obj\Debug\net5.0\DynamicPolymorphism.csproj.CoreCompileInputs.cache
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\obj\Debug\net5.0\DynamicPolymorphism.dll
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\obj\Debug\net5.0\ref\DynamicPolymorphism.dll
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\obj\Debug\net5.0\DynamicPolymorphism.pdb
+D:\SkillHouse\SkillHouse\DynamicPolymorphism\obj\Debug\net5.0\DynamicPolymorphism.genruntimeconfig.cache
